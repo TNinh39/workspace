@@ -1,0 +1,40 @@
+.a{
+    color:rgb(40, 40, 169);
+}
+h1{
+    font-size: 40px;
+    margin-left: 400px;
+    font-family: 'Segoe UI';
+}
+h3{
+    font-size: 25px;
+    margin-left: 450px;
+    width: 600px;
+}
+img{
+    margin-left: 250px;
+    width: 1070px;
+    height: 800px;
+}
+p{
+    font-size: 20px;
+    margin-left: 440px;
+    width: 700px;
+}
+hr{
+    width: 1200px;
+    margin-left: 170px;
+}
+.so1{
+    display: flex;
+    width: 1070px;
+}
+img.con1{
+    width: 530px;
+    height: 400px;
+    margin-right: -250px;
+}
+img.con2{
+    width: 530px;
+    height:400px ;
+}
